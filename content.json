@@ -1,5 +1,13 @@
 {
   "announcement": "خوش آمدید به نسخه آنلاین وکیل شو! پرونده‌ها و تبلیغات از اینجا به‌روزرسانی می‌شوند.",
   "cases": [],
-  "ads": []
+  "ads": [ 
+{
+  "title": "سلام گلاب تو خونه",
+  "text": "سلام گلاب تو خونه",
+  "link": "https://t.me/vakiIsho",
+  "enabled": true,
+  "placements": ["home", "result"]
+}
+   ]
 }
